@@ -1,0 +1,28 @@
+## 𝐇𝐨𝐰 𝐭𝐨 𝐩𝐫𝐞𝐩𝐚𝐫𝐞
+
+1. Create a folder called videos in the same place where you’ll save the script.
+2. Put all your .mp4 video files inside that videos folder.
+3. Save the Python script below as generate_youtube_clone.py.
+4. Run the script to generate index.html.
+5. Open index.html in your web browser.
+
+
+## 𝐇𝐨𝐰 𝐭𝐨 𝐑𝐮𝐧 (Quick Steps ik most of you know but still) 
+
+1. Make sure you have Python installed.
+2. Put your .mp4 video files inside a folder called videos (in the same directory as the script).
+3. Save the above code as generate_youtube_clone.py.
+4. Open terminal or command prompt in that folder.
+Run:
+python generate_youtube_clone.py
+5. Open the generated index.html in any modern browser (Chrome, Firefox, Edge).
+6. Use the search bar to filter videos.
+7. Click Toggle Dark Mode button to switch light/dark theme.
+
+
+## 𝐓𝐫𝐨𝐮𝐛𝐥𝐞𝐬𝐡𝐨𝐨𝐭𝐢𝐧𝐠 𝐓𝐢𝐩𝐬
+
+* If python command not found, try python3 instead.
+* Videos must be .mp4 format.
+* Video filenames become their titles automatically.
+*** To add/remove videos, just update the videos folder and run the script again or type cmd in the folder path and pest "python generate_youtube_clone.py" hit enter and you are good to go again. After adding new videos you have to update the script or the new videos will not be foud in page. 
